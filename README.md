@@ -5,7 +5,7 @@ This is a restful API which facilitates downloading, resizing, and securely stor
 
 * First of all clone the project:
 ```console
-username@hostname:~$ git clone https://github.com/EngRobot33/QueryPix.git
+username@hostname:~$ git clone https://github.com/HaamedKhosravii/QueryPix.git
 ```
 * Enter the project directory:
 ```console
@@ -73,7 +73,7 @@ username@hostname:~/QueryPix$ pytest -v downloader/tests.py
 
 * First of all clone the project:
 ```console
-username@hostname:~$ git clone https://github.com/EngRobot33/QueryPix.git
+username@hostname:~$ git clone https://github.com/HaamedKhosravii/QueryPix.git
 ```
 * Enter the project directory:
 ```console
